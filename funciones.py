@@ -1,6 +1,3 @@
-# stats.py
-# Funciones de estadística descriptiva
-# Autor: Tu Nombre
 import math
 
 def media(data):
